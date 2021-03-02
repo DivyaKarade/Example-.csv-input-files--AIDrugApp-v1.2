@@ -7,4 +7,4 @@ Example files contains three files that includes features/ descriptor values of 
 
 Note: 
 1. Information regarding molecular descriptors can be found here https://github.com/DivyaKarade/Example-.csv-input-batch-file 
-2. Users can input any number of features per molecule for feature engineering and for building ML models.
+2. Users can input .csv files with any feature values and any number of features per molecule for feature engineering and for building ML models.
