@@ -1,0 +1,11 @@
+Name,measured log(solubility:mol/L),ESOL predicted log(solubility:mol/L),smiles
+"1,1,1,2-Tetrachloroethane",-2.18,-2.794,ClCC(Cl)(Cl)Cl
+"1,1,1-Trichloroethane",-2,-2.232,CC(Cl)(Cl)Cl
+"1,1,2,2-Tetrachloroethane",-1.74,-2.549,ClC(Cl)C(Cl)Cl
+"1,1,2-Trichloroethane",-1.48,-1.961,ClCC(Cl)Cl
+"1,1,2-Trichlorotrifluoroethane",-3.04,-3.077,FC(F)(Cl)C(F)(Cl)Cl
+"1,1-Dichloroethane",-1.29,-1.576,CC(Cl)Cl
+"1,1-Dichloroethylene",-1.64,-1.939,ClC(=C)Cl
+"1,1-Diethoxyethane ",-0.43,-0.899,CCOC(C)OCC
+"1,2,3,4-Tetrachlorobenzene",-4.57,-4.546,Clc1ccc(Cl)c(Cl)c1Cl
+"1,2,3,4-Tetrahydronapthalene",-4.37,-3.447,C1CCc2ccccc2C1
