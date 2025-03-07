@@ -1,4 +1,4 @@
-Drug Name,smiles
+Drug Name,SMILES
 Irbesartan,CCCCC1=NC2(CCCC2)C(=O)N1Cc3ccc(cc3)c4ccccc4c5n[nH]nn5
 "(1R,4R,6S,15R,17R)-N-Cyclopropylsulfonyl-17-[7-methoxy-8-methyl-2-(4-propan-2-yl-1,3-thiazol-2-yl)quinolin-4-yl]oxy-13-methyl-2,14-dioxo-3,13-diazatricyclo[13.3.0.04,6]octadec-7-ene-4-carboxamide",COc1ccc2c(O[C@@H]3C[C@@H]4[C@@H](C3)C(=O)N(C)CCCCC=C[C@@H]5C[C@]5(NC4=O)C(=O)N[S](=O)(=O)C6CC6)cc(nc2c1C)c7scc(n7)C(C)C
 "(1R,4R,6R,7Z,15R,17R)-N-Cyclopropylsulfonyl-17-[7-methoxy-8-methyl-2-(4-propan-2-yl-1,3-thiazol-2-yl)quinolin-4-yl]oxy-13-methyl-2,14-dioxo-3,13-diazatricyclo[13.3.0.04,6]octadec-7-ene-4-carboxamide",COc1ccc2c(O[C@@H]3C[C@@H]4[C@@H](C3)C(=O)N(C)CCCC\C=C/[C@H]5C[C@]5(NC4=O)C(=O)N[S](=O)(=O)C6CC6)cc(nc2c1C)c7scc(n7)C(C)C
